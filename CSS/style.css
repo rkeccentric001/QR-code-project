@@ -1,0 +1,50 @@
+/* .background{
+    background-color:hsl(212, 45%, 89%);
+    width: 1440px;
+    height:100vh;
+    
+} */
+.white-box{
+    height: 500px;
+    width: 330px;
+    background: hsl(0, 0%, 100%);
+    position: absolute;
+    top: 150px;
+    right: 628px;
+    align-self: center;
+    border-radius: 25px;
+}
+ img{
+    width: 290px;
+    height: 290px;
+    margin: 18px 18px 18px 21px;
+    border-radius: 11px;
+ }
+ body{
+    background-color:hsl(212, 45%, 89%);
+    
+ }
+p{
+    font-size: 15px;
+    text-align: center;
+
+}
+.paragraph-2{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Pacifico', cursive;
+
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin: 20px 44px;
+
+}
+.paragraph-1{
+    
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Pacifico', cursive;
+    font-weight: 700;
+    align-self: center;
+    padding: 21px 7px;
+    margin: -21px 65px;
+    width: 55%;
+}
